@@ -8,7 +8,7 @@ import java.io.StringReader;
 
 import cs3500.marblesolitaire.controller.MarbleSolitaireController;
 import cs3500.marblesolitaire.controller.MarbleSolitaireControllerImpl;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelImpl;
+import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModelImpl;
 
 import static org.junit.Assert.assertEquals;
 

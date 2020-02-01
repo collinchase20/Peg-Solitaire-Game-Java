@@ -1,9 +1,9 @@
-package cs3500.marblesolitaire.model.hw04;
+package cs3500.marblesolitaire.model.AbstractModel;
 
 import java.util.ArrayList;
 
-import cs3500.marblesolitaire.model.hw02.Cell;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
+import cs3500.marblesolitaire.model.SimpleModel.Cell;
+import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModel;
 
 /**
  * Abstract Class for implementations of a MarbleSolitaireModel.

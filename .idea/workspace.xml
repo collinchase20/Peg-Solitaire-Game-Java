@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d09607e4-5191-4e43-8f89-63f8656b0a8f" name="Default Changelist" comment="" />
+    <list default="true" id="d09607e4-5191-4e43-8f89-63f8656b0a8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="45" column="3" lean-forward="true" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+            <state relative-caret-position="467">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -113,6 +116,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -126,7 +132,6 @@
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/MarbleSolitaireModel.java" />
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/Cell.java" />
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImpl.java" />
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw02/MarbleSolitaireModelImpl.java" />
         <option value="$PROJECT_DIR$/test/EuropeanTest.java" />
         <option value="$PROJECT_DIR$/test/SolitaireTest.java" />
@@ -135,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/AbstractSolitaireModelImpl.java" />
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/MarbleSolitaire.java" />
         <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/controller/MarbleSolitaireControllerImpl.java" />
+        <option value="$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImpl.java" />
       </list>
     </option>
   </component>
@@ -215,7 +221,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580596403278" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580599015839" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/test" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -415,7 +421,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914287" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32914287" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32685715" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914287" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32914287" />
@@ -586,8 +592,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/marblesolitaire/model/hw04/EuropeanSolitaireModelImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="45" column="3" lean-forward="true" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        <state relative-caret-position="467">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>

@@ -1,9 +1,9 @@
 
 import org.junit.Test;
 
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelImpl;
-import cs3500.marblesolitaire.model.hw04.AbstractSolitaireModelImpl;
+import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModel;
+import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModelImpl;
+import cs3500.marblesolitaire.model.AbstractModel.AbstractSolitaireModelImpl;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;

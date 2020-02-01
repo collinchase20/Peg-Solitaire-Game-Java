@@ -1,7 +1,7 @@
-package cs3500.marblesolitaire.model.hw04;
+package cs3500.marblesolitaire.model.AbstractModel;
 
 
-import cs3500.marblesolitaire.model.hw02.Cell;
+import cs3500.marblesolitaire.model.SimpleModel.Cell;
 
 /**
  * Class that creates the European MarbleSolitaireModelImpl extending AbstractSolitaire.

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HW4collinchase.iml" filepath="$PROJECT_DIR$/HW4collinchase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarbleSolitaireGame.iml" filepath="$PROJECT_DIR$/MarbleSolitaireGame.iml" />
     </modules>
   </component>
 </project>

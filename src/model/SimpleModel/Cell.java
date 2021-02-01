@@ -1,4 +1,4 @@
-package cs3500.marblesolitaire.model.SimpleModel;
+package model.SimpleModel;
 
 /**
  * Class that creates a Cell to be used as a space in a marblesolitairegame.

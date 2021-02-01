@@ -1,7 +1,7 @@
-package cs3500.marblesolitaire.model.AbstractModel;
+package model.AbstractModel;
 
 
-import cs3500.marblesolitaire.model.SimpleModel.Cell;
+import model.SimpleModel.Cell;
 
 /**
  * Class that creates a triangle MarbleSolitaireModelImpl extending AbstractSolitaire.

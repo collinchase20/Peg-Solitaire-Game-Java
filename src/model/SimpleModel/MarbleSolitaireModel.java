@@ -1,4 +1,4 @@
-package cs3500.marblesolitaire.model.SimpleModel;
+package model.SimpleModel;
 
 /**
  * This interface represents the operations offered by the marble solitaire model. One object of the

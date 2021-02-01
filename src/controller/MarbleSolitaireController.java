@@ -1,6 +1,6 @@
-package cs3500.marblesolitaire.controller;
+package controller;
 
-import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModel;
+import model.SimpleModel.MarbleSolitaireModel;
 
 
 /**

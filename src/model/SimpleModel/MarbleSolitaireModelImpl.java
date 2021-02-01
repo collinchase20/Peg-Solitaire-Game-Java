@@ -1,7 +1,7 @@
-package cs3500.marblesolitaire.model.SimpleModel;
+package model.SimpleModel;
 
 
-import cs3500.marblesolitaire.model.AbstractModel.AbstractSolitaireModelImpl;
+import model.AbstractModel.AbstractSolitaireModelImpl;
 
 /**
  * Class that creates the English MarbleSolitaireModelImpl. This class was entirely changed to

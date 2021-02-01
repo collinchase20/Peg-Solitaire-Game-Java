@@ -1,13 +1,11 @@
-package cs3500.marblesolitaire;
-
 import java.io.InputStreamReader;
 
-import cs3500.marblesolitaire.controller.MarbleSolitaireControllerImpl;
+import controller.MarbleSolitaireControllerImpl;
 
-import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModelImpl;
-import cs3500.marblesolitaire.model.AbstractModel.AbstractSolitaireModelImpl;
-import cs3500.marblesolitaire.model.AbstractModel.EuropeanSolitaireModelImpl;
-import cs3500.marblesolitaire.model.AbstractModel.TriangleSolitaireModelImpl;
+import model.SimpleModel.MarbleSolitaireModelImpl;
+import model.AbstractModel.AbstractSolitaireModelImpl;
+import model.AbstractModel.EuropeanSolitaireModelImpl;
+import model.AbstractModel.TriangleSolitaireModelImpl;
 
 /**
  * Class to run a main method which will be used to actually play the game.

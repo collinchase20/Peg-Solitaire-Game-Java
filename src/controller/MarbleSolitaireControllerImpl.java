@@ -1,10 +1,10 @@
-package cs3500.marblesolitaire.controller;
+package controller;
 
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-import cs3500.marblesolitaire.model.SimpleModel.MarbleSolitaireModel;
+import model.SimpleModel.MarbleSolitaireModel;
 
 /**
  * Class that creates a MarbleSolitaireController to to interact with Marble Solitaire game.

@@ -34,6 +34,8 @@ public final class MarbleSolitaire {
 
     }
 
+
+
     if (args[0].equals("european")) {
       if (args.length > 1) {
         if (args[1].equals("-row")) {
@@ -55,15 +57,16 @@ public final class MarbleSolitaire {
                   Integer.parseInt(args[2]), Integer.parseInt(args[3]));
         } else if (args[1].equals("-size")) {
           game = new TriangleSolitaireModelImpl(Integer.parseInt(args[2]));
-        } else {
-          game = new TriangleSolitaireModelImpl();
         }
       }
-
-
-      new MarbleSolitaireControllerImpl(new InputStreamReader(System.in),
-              System.out).playGame(game);
+      else {
+        game = new TriangleSolitaireModelImpl();
+      }
     }
+
+    new MarbleSolitaireControllerImpl(new InputStreamReader(System.in),
+            System.out).playGame(game);
+
 
   }
 }
